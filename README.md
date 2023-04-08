@@ -29,6 +29,16 @@ Tive a ideia de começar o desafio de #100DaysOfCode, além de compartilhar algu
 
 <br>
 
+## ✅ Features
+
+- [X] Desenvolvimento da classe ContaCorrente, possibilitando receber argumentos e inicializar atributos a partir da criação de um objeto;
+- [X] Inicialização obrigatória dos atributos recebidos no construtor.
+- [X] Atributos estáticos da classe;
+- [X] Métodos estáticos da classe;
+- [X] Ausência de referência, do this, dentro de métodos estáticos.
+
+<br>
+
 ## ❓ Dúvidas
 
 Qualquer dúvida, interaja aqui:
