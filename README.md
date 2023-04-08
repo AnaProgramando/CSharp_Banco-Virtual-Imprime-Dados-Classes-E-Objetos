@@ -6,6 +6,7 @@
 <p align="center">
  <a href="#-welcome">Welcome</a> | 
  <a href="#-csharp---projeto-de-banco-virtual---imprime-dados---classes-e-objetos">Projeto de Banco Virtual - Imprime Dados - Classes e Objetos</a> |  
+ <a href="#-features">Features</a> |  
  <a href="#-d%C3%BAvidas">Dúvidas</a> | 
  <a href="#%EF%B8%8F-contatos">Contatos</a> | 
  <a href="#%EF%B8%8F-desenvolvedora">Desenvolvedora</a>
